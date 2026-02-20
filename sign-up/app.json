@@ -24,6 +24,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "182d0714-cbe5-4adb-a850-62d567a80220"
+      }
+    },
+    "owner": "idaxan"
   }
 }
